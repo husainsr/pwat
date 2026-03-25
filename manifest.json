@@ -5,5 +5,5 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "scope": "/pwat/",
-  "start_url": "/"
+  "start_url": "/pwat/"
 }
