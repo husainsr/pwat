@@ -1,0 +1,43 @@
+@import 'extend-design/variables';
+@import 'extend-design/mixins';
+
+// Plugins CSS
+@import "extend-design/plugins/plugin-animate-bootstrap-notify";
+@import "extend-design/plugins/plugin-perfect-scrollbar";
+
+// Core CSS
+@import "extend-design/buttons";
+@import "extend-design/inputs";
+@import "extend-design/typography";
+@import "extend-design/misc";
+@import "extend-design/checkboxes-radio";
+
+
+// components
+@import "extend-design/navbar";
+@import "extend-design/page-header";
+@import "extend-design/dropdown";
+@import "extend-design/alerts";
+@import "extend-design/images";
+@import "extend-design/nucleo-outline";
+@import "extend-design/tables";
+@import "extend-design/sidebar-and-main-panel";
+@import "extend-design/footers";
+@import "extend-design/fixed-plugin";
+
+// cards
+@import "extend-design/cards";
+@import "extend-design/cards/card-plain";
+@import "extend-design/cards/card-chart";
+@import "extend-design/cards/card-user";
+@import "extend-design/cards/card-map";
+@import "extend-design/cards/card-stats";
+
+// angular differences
+@import "extend-design/angular/plugin-ngx-toastr";
+@import "extend-design/angular/sidebar-and-main-panel";
+@import "extend-design/angular/dropdown";
+@import "extend-design/angular/inputs";
+@import "extend-design/angular/fixed-plugin";
+
+@import "extend-design/responsive";
