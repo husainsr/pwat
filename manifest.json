@@ -8,8 +8,21 @@
   "start_url": "/pwat/",
   "icons": [
     {
-      "src": "aa.png",
-      "sizes": "128x128",
+      "src": "icon-192x192",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "mobile.png",
+      "sizes": "390x844",
       "type": "image/png"
     }
   ]
